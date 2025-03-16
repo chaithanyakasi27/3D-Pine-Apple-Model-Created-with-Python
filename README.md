@@ -1,5 +1,7 @@
 # Pine Apple 3D Model in Maya using Python
 
+![3D PineApple Model](https://github.com/chaithanyakasi27/3D-Pine-Apple-Model-Created-with-Python/blob/main/PineApple.jpg)
+You Can see video in the repository.
 ## Description
 This module creates a **Pine Apple** model and adds shaders procedurally using Python in **Autodesk Maya**.
 
